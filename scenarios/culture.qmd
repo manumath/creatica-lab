@@ -1,0 +1,74 @@
+---
+title: ""
+format:
+  html:
+    title-block-style: none
+---
+
+::: {.content role="main"}
+::: quarto-title-block
+:::
+
+# Introducción a `Julia` para Matemáticas y Ciencias
+
+::: {.row .intro}
+`Julia` es un lenguaje de programación más reciente, diseñado específicamente para el cálculo científico y técnico de alto rendimiento. Combina la facilidad de uso de lenguajes interpretados como `Python` o `MATLAB` con la velocidad de lenguajes compilados como `C`. Julia se destaca por su capacidad para resolver problemas complejos en matemáticas aplicadas, dinámica de sistemas, álgebra lineal, ecuaciones diferenciales y optimización.
+
+En particular, Julia permite escribir código conciso y expresivo que se ejecuta rápidamente, lo que lo convierte en una excelente elección para modelar fenómenos naturales, realizar simulaciones, y desarrollar investigación matemática computacional sin sacrificar eficiencia.
+
+#### Primera sesión: 28 de julio de 2025. 19:45 - 21:15.
+
+#### Primera sesión: 29 de julio de 2025. 19:45 - 21:15.
+:::
+
+::: {.row .visual}
+::: {.quarto-figure .quarto-figure-center}
+<figure class="figure">
+<p><img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201808/julia-programming-language-mit-00_0.png?itok=gxfHvo6I" class="quarto-figure quarto-figure-center figure-img" style="border-radius: 8px; margin-top: 0px;!important" height="400" /></p>
+</figure>
+:::
+:::
+
+------------------------------------------------------------------------
+
+# Certificación
+
+> #### Se otorgarán **GRATUITAMENTE** *Certificados de Participación* (por 10 Hrs académicas) y *Certificados de Aprobación* (a la presentación de un proyecto) a todos los docentes, estudiantes y administrativos de la *Carrera de Matemática*.
+
+> #### En el caso de participantes de la **FCPN**, la **UMSA** u otra institución, se otorgarán *Certificados de Participación* (por 10 Hrs académicas) y *Certificados de Aprobación* (a la presentación de un proyecto), a **SOLICITUD** del participante, con el siguiente detalle de costos:
+>
+> -   **50 Bs. por cada curso**
+> -   **120 Bs. por los tres cursos**
+
+------------------------------------------------------------------------
+
+# Características de la herramienta
+
+  ---------------------------------------- ---------------------------------------------------------------------------
+  **Tipo de software**                     Lenguaje de programación técnico-científico
+
+  **Año de creación**                      2012
+
+  **Diseñado para**                        Cómputo numérico de alto rendimiento y modelado científico
+
+  **Velocidad de ejecución**               Alta; cercano a C en muchos casos
+
+  **Curva de aprendizaje**                 Suave a moderada (más técnica)
+
+  **Comunidad y ecosistema**               En crecimiento, con foco en ciencia, matemática e ingeniería
+
+  **Uso académico/científico**             Popular en matemática aplicada, dinámica de sistemas, optimización
+
+  **Soporte para notebooks**               Pluto.jl, Jupyter
+
+  **Compatibilidad con otros lenguajes**   Puede llamar a C, Python, R, Fortran
+
+  **Distribución y portabilidad**          Mejora constante (distribuciones ligeras y autoconfigurables)
+
+  **Publicación web**                      Puede usar Pluto o Documenter.jl para crear contenido web
+
+  **Aplicaciones destacadas**              Simulación, ecuaciones diferenciales, optimización, álgebra computacional
+
+  **Licencia**                             MIT License
+  ---------------------------------------- ---------------------------------------------------------------------------
+:::

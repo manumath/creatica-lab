@@ -1,0 +1,21 @@
+---
+title: "W. Alejandro Apaza-Perez"
+subtitle: "Docente Investigador"
+image: ../../img/alejandro.jpg
+order: 2
+author:
+  - name: W. Alejandro Apaza-Perez
+    orcid: 0000-0002-2644-9995
+about:
+  template: jolla
+  image: ../../img/alejandro.jpg
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: link
+      text: website
+      href: Alejandro.html
+    - icon: linkedin
+      text: Linkendin
+      href: https://www.linkedin.com/in/alejandro-apaza-perez/
+---

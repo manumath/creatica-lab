@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+resources:
+  - "img/"
+
+website:
+  site-url: "https://creatica.quarto.pub/creatica-lab/"
+  title: "CREATICA-Lab"
+  description: "Creación de Contenido Científico Computacional Reproducible y Abierto con TICs"
+  navbar:
+    background: "white"
+    foreground: "dark"
+    pinned: true
+    logo: img/creatica-lab.png
+    search: true
+    left:
+      - href: project/project.qmd
+        text: "Proyecto"
+      - href: scenarios/scenarios.qmd
+        text: "Actividades"
+      - href: impressions/impressions.qmd
+        text: "Impresiones"
+      - href: glossary/glossary.qmd
+        text: "Glosario"
+      - text: "Información"
+        menu:
+          - href: about/team.qmd
+            text: "Equipo"
+          - href: about/funding.qmd
+            text: "Financiamiento"
+          - href: about/contributers.qmd
+            text: "Contribuciones"
+
+format:
+  html:
+    css: styles.css
+    theme:
+      - cosmo
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fontsize: 1.1em
+    page-layout: article
+    grid:
+      sidebar-width: 400px
+      body-width: 1100px
+      margin-width: 150px
+      gutter-width: 1.5rem
+
+lang: es

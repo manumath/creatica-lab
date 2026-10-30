@@ -1,0 +1,9 @@
+---
+title: "Contribuciones"
+subtitle: "En nuestro proyecto, esperamos colaborar estrechamente con un grupo diverso de actores clave en Bolivia. Su invaluable apoyo nos permitirá generar narrativa científica para el desarrollo. Agradecemos sinceramente este apoyo"
+---
+
+| Nombre | Institución |
+|--------|-------------|
+|        |             |
+|        |             |

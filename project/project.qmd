@@ -1,0 +1,28 @@
+---
+title: "Proyecto"
+title-block-banner: "#f6f8fa"
+---
+
+# Objetivo del proyecto
+
+> ### Proporcionar a investigadores, docentes y estudiantes habilidades y conocimientos para crear contenido científico computacional reproducible y abierto utilizando diferentes lenguajes de programación y herramientas de autoría de documentos científicos
+
+# Objetivos específicos
+
+::: {style="text-align: left"}
+[![](../img/scenario_icon.svg){.img-fluid} [Proporcionar a los participantes las habilidades y conocimientos necesarios para crear contenido científico computacional reproducible y abierto]{.h4 style="color: #000;"}](project.html#sec-scenario_creation)
+
+[![](../img/scenario_icon.svg){.img-fluid} [Fomentar la colaboración y el intercambio de ideas entre los participantes]{.h4 style="color: #000;"}](project.html#sec-scenario_creation)
+
+[![](../img/scenario_icon.svg){.img-fluid} [Establecer una comunidad de práctica en la creación de contenido científico computacional reproducible y abierto]{.h4 style="color: #000;"}](project.html#sec-scenario_creation)
+:::
+
+# Público objetivo
+
+::: {style="text-align: left"}
+[![](../img/scenario_icon.svg){.img-fluid} [Investigadores y científicos que desean mejorar la reproducibilidad y la calidad de sus publicaciones.]{.h4 style="color: #000;"}](project.html#sec-scenario_creation)
+
+[![](../img/scenario_icon.svg){.img-fluid} [Docentes que buscan incorporar contenido científico computacional en sus clases y materiales de enseñanza.]{.h4 style="color: #000;"}](project.html#sec-scenario_creation)
+
+[![](../img/scenario_icon.svg){.img-fluid} [Estudiantes de posgrado y pregrado que desean desarrollar habilidades en la creación de contenido científico computacional reproducible y abierto]{.h4 style="color: #000;"}](project.html#sec-scenario_creation)
+:::

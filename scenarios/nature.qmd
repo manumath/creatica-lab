@@ -1,0 +1,74 @@
+---
+title: ""
+format:
+  html:
+    title-block-style: none
+---
+
+::: {.content role="main"}
+::: quarto-title-block
+:::
+
+# Introducción a `Python` para Matemáticas y Ciencias
+
+::: {.row .intro}
+`Python` es un lenguaje de programación de propósito general, conocido por su simplicidad y legibilidad. Es una de las herramientas más utilizadas en el mundo para tareas que van desde el desarrollo web hasta la inteligencia artificial. En el ámbito científico, Python se ha consolidado como una opción poderosa gracias a bibliotecas como `NumPy`, `SciPy`, `Pandas`, `Matplotlib`, y `SymPy`, que permiten realizar cálculos simbólicos, numéricos y análisis de datos de forma eficiente.
+
+Para estudiantes e investigadores de ciencias, `Python` representa una puerta de entrada versátil al mundo de la programación, con una curva de aprendizaje suave y una comunidad activa que genera constantemente recursos accesibles y actualizados
+
+#### Primera sesión: 28 de julio de 2025. 18:00 - 19:30.
+
+#### Segunda sesión: 29 de julio de 2025. 18:00 - 19:30.
+:::
+
+::: {.row .visual}
+::: {.quarto-figure .quarto-figure-center}
+<figure class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" class="quarto-figure quarto-figure-center figure-img" style="border-radius: 8px;" height="400" /></p>
+</figure>
+:::
+:::
+
+------------------------------------------------------------------------
+
+# Certificación
+
+> #### Se otorgarán **GRATUITAMENTE** *Certificados de Participación* (por 10 Hrs académicas) y *Certificados de Aprobación* (a la presentación de un proyecto) a todos los docentes, estudiantes y administrativos de la *Carrera de Matemática*.
+
+> #### En el caso de participantes de la **FCPN**, la **UMSA** u otra institución, se otorgarán *Certificados de Participación* (por 10 Hrs académicas) y *Certificados de Aprobación* (a la presentación de un proyecto), a **SOLICITUD** del participante, con el siguiente detalle de costos:
+>
+> -   **50 Bs. por cada curso**
+> -   **120 Bs. por los tres cursos**
+
+------------------------------------------------------------------------
+
+# Características de la herramienta
+
+  ---------------------------------------- -------------------------------------------------------------------
+  **Tipo de software**                     Lenguaje de programación general
+
+  **Año de creación**                      1991
+
+  **Diseñado para**                        Propósito general (web, ciencia de datos, automatización, etc.)
+
+  **Velocidad de ejecución**               Moderada; depende del uso de extensiones compiladas (NumPy, etc.)
+
+  **Curva de aprendizaje**                 Suave
+
+  **Comunidad y ecosistema**               Muy amplia y diversa
+
+  **Uso académico/científico**             Muy extendido en ciencia de datos, IA, bioinformática, etc.
+
+  **Soporte para notebooks**               Jupyter Notebooks
+
+  **Compatibilidad con otros lenguajes**   Integración con C, R, Julia, etc.
+
+  **Distribución y portabilidad**          Fácil de instalar y distribuir (Anaconda, PyPI)
+
+  **Publicación web**                      Requiere herramientas adicionales (Flask, Django, Sphinx)
+
+  **Aplicaciones destacadas**              Machine learning, web, scripting, automatización, visualización
+
+  **Licencia**                             Python Software Foundation License
+  ---------------------------------------- -------------------------------------------------------------------
+:::

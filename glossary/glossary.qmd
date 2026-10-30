@@ -1,0 +1,135 @@
+---
+title: "Glosario"
+title-block-banner: "#f6f8fa"
+---
+
+## Algoritmo
+
+Conjunto finito de instrucciones o reglas definidas que permiten resolver un problema o realizar una tarea específica de manera sistemática.\
+🔗 [Wikipedia: Algoritmo](https://es.wikipedia.org/wiki/Algoritmo)
+
+## Biblioteca (Library)
+
+Colección de funciones, clases o módulos que extienden las capacidades de un lenguaje. Ej.: `NumPy` en Python o `DifferentialEquations.jl` en Julia.\
+🔗 [Lista de bibliotecas de Python](https://pypi.org) • [Paquetes en JuliaHub](https://juliahub.com)
+
+## Código fuente
+
+Texto escrito por el usuario en un lenguaje de programación. Es interpretado o compilado para su ejecución.\
+🔗 [Artículo introductorio en Mozilla Developer Network](https://developer.mozilla.org/es/docs/Glossary/Source_code)
+
+## Compilación
+
+Proceso que transforma el código fuente en código máquina. En Julia, se utiliza compilación en tiempo de ejecución (JIT).\
+🔗 [JIT Compilation en Julia](https://docs.julialang.org/en/v1/manual/overview/#Just-In-Time-(JIT)-Compilation)
+
+## Consola / Terminal
+
+Interfaz de línea de comandos para interactuar con el sistema operativo o intérpretes de código.\
+🔗 [Guía de terminal en Ubuntu](https://ubuntu.com/tutorials/command-line-for-beginners)\
+🔗 [REPL de Julia](https://docs.julialang.org/en/v1/stdlib/REPL/)
+
+## Datos reproducibles
+
+Resultados que pueden generarse nuevamente a partir del mismo código y datos.\
+🔗 [The Turing Way – Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
+
+## Decorador (Python)
+
+Función que modifica el comportamiento de otra función o clase. Se usa con `@`.\
+🔗 [Decoradores en Python – Documentación oficial](https://docs.python.org/3/glossary.html#term-decorator)
+
+## Dict (Python, Julia)
+
+Estructura que almacena pares clave-valor.\
+🔗 [Dict en Python](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)\
+🔗 [Dict en Julia](https://docs.julialang.org/en/v1/base/collections/#Dictionaries)
+
+## Entorno interactivo
+
+Interfaz que permite ejecutar código de forma dinámica.\
+🔗 [Jupyter](https://jupyter.org) • [Pluto.jl](https://plutojl.org)
+
+## Función anónima
+
+Función sin nombre. En Python: `lambda`; en Julia: `->`.\
+🔗 [Funciones lambda en Python](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions)\
+🔗 [Funciones anónimas en Julia](https://docs.julialang.org/en/v1/manual/functions/#man-anonymous-functions)
+
+## Lenguaje interpretado
+
+Lenguaje ejecutado línea por línea. Python es interpretado; Julia combina interpretación y compilación JIT.\
+🔗 [Interpretación vs. Compilación](https://realpython.com/python-interpreted-language/)
+
+## Markdown
+
+Lenguaje ligero de marcado para formatear texto.\
+🔗 [Guía de Markdown](https://www.markdownguide.org/basic-syntax/)
+
+## Módulo (Module)
+
+Unidad organizativa que agrupa funciones y variables.\
+🔗 [Módulos en Python](https://docs.python.org/3/tutorial/modules.html)\
+🔗 [Modules en Julia](https://docs.julialang.org/en/v1/manual/modules/)
+
+## Multiple Dispatch (Julia)
+
+Técnica que selecciona una función según los tipos de todos sus argumentos.\
+🔗 [Multiple Dispatch en Julia](https://docs.julialang.org/en/v1/manual/methods/)
+
+## Notebooks
+
+Documentos que combinan texto, código y resultados.\
+🔗 [Jupyter Notebook](https://jupyter-notebook.readthedocs.io)\
+🔗 [Pluto.jl](https://plutojl.org)
+
+## Paquete (Package)
+
+Colección de funcionalidades organizadas.\
+🔗 [Instalar paquetes con pip (Python)](https://pip.pypa.io/en/stable/)\
+🔗 [Pkg en Julia](https://pkgdocs.julialang.org)
+
+## Publicación reproducible
+
+Documento que integra texto, código y resultados de forma transparente.\
+🔗 [Quarto – Reproducibility](https://quarto.org/docs/computations/)
+
+## Quarto
+
+Sistema de publicación técnica para crear informes, presentaciones y sitios web reproducibles.\
+🔗 [Sitio oficial de Quarto](https://quarto.org)
+
+## REPL
+
+Entorno interactivo que permite ejecutar código línea por línea.\
+🔗 [REPL de Julia – Documentación](https://docs.julialang.org/en/v1/stdlib/REPL/)
+
+## Script
+
+Archivo con una secuencia de comandos en un lenguaje de programación.\
+🔗 [Crear scripts en Python](https://realpython.com/run-python-scripts/)\
+🔗 [Julia scripts](https://docs.julialang.org/en/v1/manual/getting-started/#Running-Julia-Code)
+
+## Sintaxis
+
+Reglas que definen cómo debe escribirse correctamente el código.\
+🔗 [Sintaxis de Python](https://docs.python.org/3/reference/lexical_analysis.html)\
+🔗 [Sintaxis de Julia](https://docs.julialang.org/en/v1/manual/variables/)
+
+## Tipo de dato
+
+Categoría de valores: enteros, flotantes, booleanos, etc.\
+🔗 [Tipos de datos en Python](https://docs.python.org/3/library/stdtypes.html)\
+🔗 [Tipos de datos en Julia](https://docs.julialang.org/en/v1/manual/types/)
+
+## Variable
+
+Nombre asociado a un valor almacenado en memoria.\
+🔗 [Variables en Python](https://realpython.com/python-variables/)\
+🔗 [Variables en Julia](https://docs.julialang.org/en/v1/manual/variables/)
+
+## Visualización de datos
+
+Representación gráfica de información cuantitativa.\
+🔗 [Matplotlib – Python](https://matplotlib.org/stable/users/index.html)\
+🔗 [Plots.jl – Julia](https://docs.juliaplots.org/latest/)

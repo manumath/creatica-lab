@@ -1,0 +1,18 @@
+---
+title: "Equipo"
+subtitle: "El equipo de CREATICA Lab es una colaboración interdisciplinaria entre investigadores del Instituto de Investigación Matemática, de la Facultad de Ciencias Puras y Naturales y de la Universidad Mayor de San Andrés."
+title-block-banner: "#f6f8fa"
+listing:
+  - id: IIMAT
+    contents: "IIMAT/*.qmd"
+    type: grid
+    grid-columns: 4
+    image-height: 325px
+    fields: [image, title, subtitle]
+    sort: "order"
+---
+
+# Instituto de Investigación Matemática
+
+:::{#IIMAT}
+:::

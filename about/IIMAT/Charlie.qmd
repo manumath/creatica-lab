@@ -1,0 +1,21 @@
+---
+title: "Charlie A. Lozano"
+subtitle: "Responsable Instituto de Investigación Matemática"
+image: ../../img/charlie.jpg
+order: 1
+author:
+  - name: Charlie A. Lozano
+    orcid: 0000-0002-0221-0250
+about:
+  template: jolla
+  image: ../../img/charlie.jpg
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: link
+      text: website
+      href: Charlie.html
+    - icon: linkedin
+      text: Linkendin
+      href: https://www.linkedin.com/in/charlie-lozano-correa-ba911a246/
+---

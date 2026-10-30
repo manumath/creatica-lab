@@ -1,0 +1,74 @@
+---
+title: ""
+format:
+  html:
+    title-block-style: none
+---
+
+::: {.content role="main"}
+::: quarto-title-block
+:::
+
+# Introducción a `Quarto` para la Publicación Científica
+
+::: {.row .intro}
+`Quarto` no es un lenguaje de programación, sino una plataforma para crear documentos técnicos reproducibles, combinando texto, código, resultados y visualizaciones en un mismo archivo. Inspirado en herramientas como `Rmarkdown` y `Jupyter`, Quarto permite generar informes, presentaciones, sitios web, libros o artículos científicos a partir de un mismo documento fuente.
+
+Para matemáticos y científicos, Quarto ofrece una forma moderna y flexible de documentar su trabajo, comunicar resultados y enseñar contenidos. Se integra perfectamente con lenguajes como `R`, `Python` y `Julia`, y permite exportar a `HTML`, `PDF`, Word, o incluso publicar contenido interactivo en la web.
+
+#### Primera sesión: 31 de julio de 2025. 18:00 - 19:30.
+
+#### Primera sesión: 31 de julio de 2025. 19:45 - 21:15.
+:::
+
+::: {.row .visual}
+::: {.quarto-figure .quarto-figure-center}
+<figure class="figure">
+<p><img src="https://posit.co/wp-content/uploads/2022/10/thumbnail-2.jpg" class="quarto-figure quarto-figure-center figure-img" style="border-radius: 8px;" height="400" /></p>
+</figure>
+:::
+:::
+
+------------------------------------------------------------------------
+
+# Certificación
+
+> #### Se otorgarán **GRATUITAMENTE** *Certificados de Participación* (por 10 Hrs académicas) y *Certificados de Aprobación* (a la presentación de un proyecto) a todos los docentes, estudiantes y administrativos de la *Carrera de Matemática*.
+
+> #### En el caso de participantes de la **FCPN**, la **UMSA** u otra institución, se otorgarán *Certificados de Participación* (por 10 Hrs académicas) y *Certificados de Aprobación* (a la presentación de un proyecto), a **SOLICITUD** del participante, con el siguiente detalle de costos:
+>
+> -   **50 Bs. por cada curso**
+> -   **120 Bs. por los tres cursos**
+
+------------------------------------------------------------------------
+
+# Características de la herramienta
+
+  ---------------------------------------- --------------------------------------------------------------------
+  **Tipo de software**                     Sistema de publicación y generación de documentos reproducibles
+
+  **Año de creación**                      2022
+
+  **Diseñado para**                        Crear documentos reproducibles, sitios web y presentaciones
+
+  **Velocidad de ejecución**               No aplica (es una herramienta de generación de contenido)
+
+  **Curva de aprendizaje**                 Suave, especialmente para usuarios de R Markdown, Jupyter, LaTeX
+
+  **Comunidad y ecosistema**               Comunidad en expansión, principalmente usuarios de R y Python
+
+  **Uso académico/científico**             Preferido en publicaciones científicas, enseñanza y documentación
+
+  **Soporte para notebooks**               Soporta Jupyter, R Markdown, y documentos interactivos con HTML/JS
+
+  **Compatibilidad con otros lenguajes**   Soporta código embebido en R, Python, Julia, Observable, etc.
+
+  **Distribución y portabilidad**          Distribución sencilla vía archivos `.qmd` y exportables a PDF/HTML
+
+  **Publicación web**                      Genera sitios web completos (como blogs, documentación o cursos)
+
+  **Aplicaciones destacadas**              Documentación técnica, cursos interactivos, informes reproducibles
+
+  **Licencia**                             MIT License
+  ---------------------------------------- --------------------------------------------------------------------
+:::

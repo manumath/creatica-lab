@@ -1,0 +1,9 @@
+---
+title: "Primer Curso Taller de Introducción a Python, Julia y Quarto, para Matemáticas y Ciencias"
+date: 2024-06-05
+image: https://rstudio.github.io/cheatsheets/html/images/quarto-illustration.png
+categories: [Cursos, Python, Julia, Quarto, La Paz, Creación de Contenido Científico]
+---
+
+::: {layout-nrow=2}
+:::

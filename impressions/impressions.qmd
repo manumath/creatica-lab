@@ -1,0 +1,17 @@
+---
+title: "Impresiones"
+title-block-banner: "#f6f8fa"
+listing:
+  id: listing
+  contents: "*.qmd"
+  exclude:
+    filter: "impressions.qmd"
+  type: default
+  image-placeholder: https://rstudio.github.io/cheatsheets/html/images/quarto-illustration.png
+  categories: true
+  sort: "date desc"
+  feed: true
+---
+
+:::{#listing}
+:::

@@ -1,0 +1,31 @@
+---
+pagetitle: "CREATICA-Lab"
+page-layout: article
+title-block-style: none
+---
+
+::: {style="text-align: center;"}
+[CREATICA Lab](index.html){style="font-size: 5rem; color: #068194; font-weight: 400; line-height: 1.2; display: block;"}
+
+![](https://comunidad.retorn.com/wp-content/uploads/cache/2018/09/gatitos/1583254719.jpg){.img-fluid}
+:::
+
+::: {style="text-align: center; padding: 2rem 1rem; background-color: #f8f9fa; border-radius: 10px;"}
+[Creación de Contenido Cientifico Computacional Reproducible y Abierto con TICs]{style="display:block; font-size: 3rem; color: #555;"}
+
+[Instituto de Investigación Matemática - UMSA]{style="display:block; font-style: italic; color: #888; font-size: 1.75rem;"}
+:::
+
+::: {style="margin-top: 2rem; font-size: 1.1rem; line-height: 1.7; color: #333; max-width: 850px; margin-left: auto; margin-right: auto;"}
+**CREATICA-Lab** es una iniciativa del Instituto de Investigación Matemática de la Universidad Mayor de San Andrés que busca impulsar la creación, documentación y difusión de conocimiento científico mediante el uso de tecnologías abiertas, buenas prácticas computacionales y metodologías reproducibles.
+
+Nuestro propósito es construir un espacio colaborativo e inclusivo donde estudiantes, docentes, investigadores y profesionales de las áreas **STEAM** (Ciencia, Tecnología, Ingeniería, Artes y Matemáticas) puedan desarrollar proyectos, capacitarse, compartir experiencias y generar contenido científico de calidad, accesible y verificable.
+
+Desde la escritura técnica automatizada hasta la generación de recursos didácticos interactivos y publicaciones científicas reproducibles, en **CREATICA-Lab** promovemos una cultura de apertura, rigor y colaboración en la producción de conocimiento.
+
+**Invitamos a toda la comunidad científica de Bolivia** —sin importar el nivel de experiencia previa— a sumarse a este laboratorio vivo de creación y experimentación, donde la matemática se encuentra con la computación, la pedagogía con la tecnología, y la ciencia con la sociedad.
+
+::: {style="text-align: center; margin-top: 2rem;"}
+[CREA · COMPARTE · COLABORA]{style="display: inline-block; font-size: 1.4rem; background-color: #007bff; color: white; padding: 0.6rem 1.2rem; border-radius: 5px;"}
+:::
+:::
