@@ -6,7 +6,7 @@ resources:
   - "img/"
 
 website:
-  site-url: "https://creatica.quarto.pub/creatica-lab/"
+  site-url: "https://manumath.github.io/creatica-lab/"
   title: "CREATICA-Lab"
   description: "Creación de Contenido Científico Computacional Reproducible y Abierto con TICs"
   navbar:
