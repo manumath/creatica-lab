@@ -8,3 +8,5 @@ Reconstruido a partir de https://creatica.quarto.pub/creatica-lab/ con la estruc
 quarto render          # genera docs/
 quarto publish quarto-pub
 ```
+
+Sitio publicado: https://manumath.github.io/creatica-lab/
